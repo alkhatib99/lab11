@@ -9,4 +9,4 @@ then create 4 methods
 
 ## The Notebook
 
-["The NoteBook"](./)
+["The NoteBook"](./chess-board.ipynb)
